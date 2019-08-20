@@ -24,7 +24,7 @@ layout: default
 
 # Technical Projects
 
-<d1>
+<dl>
 <dt> <a href="https://github.com/Michael-Chunman-Lee"> Aries </a> </dt>
 <dd> Messenger with a toxicity classifier that identifies and tags user messages that are deemed toxic. <br>
 	<b>Technologies Involved: </b> Technologies involved: JavaScript, React, MySQL, HTML, Docker, MongoDB
