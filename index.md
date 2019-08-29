@@ -27,7 +27,7 @@ layout: default
 <dl>
 <dt> <a href="https://github.com/Michael-Chunman-Lee"> Aries </a> </dt>
 <dd> Messenger with a toxicity classifier that identifies and tags user messages that are deemed toxic. <br>
-	<b>Technologies Involved: </b> Technologies involved: JavaScript, React, MySQL, HTML, Docker, MongoDB
+	<b>Technologies Involved: </b> JavaScript, React, MySQL, HTML, Docker, MongoDB
 </dd> 
 <dt> <a href="https://github.com/Michael-Chunman-Lee/GameCentre"> Game Centre </a> </dt>
 <dd> Android application consisting of three games, Sliding Tiles, Memory Matrix and Treasure Hunt, with a fully functional login system that allows user to view their all time and personal high scores. <br>
