@@ -26,7 +26,7 @@ layout: default
 
 <dl>
 <dt> <a href="https://github.com/Tony-Cheng/Aries"> Aries </a> </dt>
-<dd> Messenger with a toxicity classifier that identifies and tags user messages that are deemed toxic. <br>
+<dd> Messenger with a toxicity classifier that identifies and tags user messages that are deemed toxic. The app also computes a toxicity score for users to gauge their behaviour and has a recommendation system to suggest users based on their toxicity scores <br>
 	<b>Technologies Involved: </b> JavaScript, React, MySQL, HTML, Docker, MongoDB
 </dd> 
 <dt> <a href="https://github.com/Michael-Chunman-Lee/GameCentre"> Game Centre </a> </dt>
