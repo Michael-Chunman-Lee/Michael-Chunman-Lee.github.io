@@ -4,7 +4,7 @@ layout: default
 
 # Relevant Experience
 
-## Ericsson 
+## Ericsson - Radio Software Developer Co-Op
 
 * Daily monitoring, investigation and resolution of test framework/radio software issues
 * Development of radio test cases, commands and log parsing tools
