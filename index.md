@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# Relevant Experience
+
+## Ericsson 
+
+* Daily monitoring, investigation and resolution of test framework/radio software issues
+* Development of radio test cases, commands and log parsing tools
+
 # Relevant Coursework
 
 ## University of Toronto
@@ -17,6 +24,10 @@ layout: default
 * Computer Organization
 * Data Structures and Analysis
 * Calculus II
+* Programming on the Web
+* Algorithm Design and Analysis
+* Intro to Databases
+* Operating Systems
 
 ## Coursera
 
@@ -48,9 +59,7 @@ layout: default
 * Python
 * Java
 * JavaScript
-* Verilog
-* C
-* MATLAB
+* C/C++
 * Android Studio
 * Visual Studio Code
 * Pycharm
